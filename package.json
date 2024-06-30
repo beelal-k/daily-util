@@ -1,0 +1,17 @@
+{
+  "name": "daily-util",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A library that contains simple functions I use in every project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beelal-k/daily-util.git"
+  },
+  "keywords": [],
+  "author": "beelal-k",
+  "license": "ISC"
+}
